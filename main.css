@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+p{
+text-align: center;
+  font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+}
+#marqueeStyle {
+    border: 2px solid red;
+    background-color: yellow;
+    font-family:serif;
+    
+    
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#school{
+width:100%;     
+}
+
+hr{
+color: blueviolet;
+}
